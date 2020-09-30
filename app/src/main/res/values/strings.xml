@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentKotlin</string>
+    <string name="fragment_text">Text on Fragment</string>
+    <string name="lorem_ipsum">Some text</string>
+    <string name="button_label">Open View Pager</string>
+</resources>
